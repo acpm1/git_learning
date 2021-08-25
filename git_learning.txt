@@ -1,1 +1,3 @@
 this is teh firs line introduced to the git_learning.txt file
+
+this is teh second line introduced to the git_learning.txt file after the first commit
